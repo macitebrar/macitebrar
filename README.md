@@ -11,9 +11,13 @@
 
 ##  Hobbies ✌️
 
-Coding|Cooking|Reading|Writing|Listening|
-|:-:|:-:|:-:|:-:|:-:|
-<img style="width:350px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">|<img style="width: 350px" src="https://media.giphy.com/media/3oEhmWwoxbhjRUJc0o/giphy.gif">| <img style="width:350px" src="https://media.giphy.com/media/Wp0ZtQjgViqR2/giphy.gif">|<img style="width: 350px" src="https://media.giphy.com/media/FLwQvAdjWmvvO/giphy.gif">|<img style="width: 350px" src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif">
+Coding|Cooking|Photo|
+|:-:|:-:|:-:|
+<img style="width:150px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">|<img style="width: 150px" src="https://media.giphy.com/media/3oEhmWwoxbhjRUJc0o/giphy.gif">|<img style="width: 150px" src="https://media.giphy.com/media/h472txyQxpw8ovkkC4/giphy.gif">
+
+Reading|Writing|Listening|
+|:-:|:-:|:-:|
+<img style="width:150px" src="https://media.giphy.com/media/Wp0ZtQjgViqR2/giphy.gif">|<img style="width: 150px" src="https://media.giphy.com/media/FLwQvAdjWmvvO/giphy.gif">|<img style="width: 150px" src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif">|
 
 ## Languages & Tools 💪
 
