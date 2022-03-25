@@ -8,7 +8,8 @@
  <a target="_blank" href="https://www.instagram.com/macitebrarofficial/"><img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
 
-
+<div align="center">
+  
 ##  Hobbies ✌️
 
 Coding|Cooking|Photo|
@@ -28,5 +29,4 @@ Reading|Writing|Listening|
 |SQL|C#|VS|VS Code
 |:-:|:-:|:-:|:-:|
 |<img style="width: 100px" src="https://www.teknoloskop.net/wp-content/uploads/2019/01/sql.png">|<img style="width: 100px" src="https://i.stack.imgur.com/u6BUv.png">|<img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1280px-Visual_Studio_Icon_2019.svg.png">|<img style="width: 100px" src="https://gitlab.com/uploads/-/system/group/avatar/8264305/1200px-Visual_Studio_Code_1.35_icon.svg.png">
-
-
+</div>
