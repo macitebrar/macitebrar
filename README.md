@@ -11,8 +11,8 @@
 
 ##  Hobbies ✌️
 
-Coding|Cooking|Photo|
-|:-:|:-:|:-:|
+||Coding|Cooking|Photo||
+|:-:|:-:|:-:|:-:|:-:|
 <img style="width:150px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">|<img style="width: 150px" src="https://media.giphy.com/media/3oEhmWwoxbhjRUJc0o/giphy.gif">|<img style="width: 150px" src="https://media.giphy.com/media/h472txyQxpw8ovkkC4/giphy.gif">
 
 Reading|Writing|Listening|
